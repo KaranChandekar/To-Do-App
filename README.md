@@ -1,7 +1,7 @@
 
 # To-do App
 
-Simple To-do list app using HTML, CSS and JavaScript
+I created animated To-do list app using HTML, CSS and JavaScript!
 ## Author
 
 - [@KaranChandekar](https://www.github.com/KaranChandekar)
